@@ -22,4 +22,4 @@ print(7 % 2)
 # power operator
 print( 2 ** 3)
 
-# Note: it you add an integer with a float you will get a float (ex: 2 + 3.0 = 5.0)
+# Note: it you pair an integer with a float you will get a float (ex: 2 + 3.0 = 5.0)
