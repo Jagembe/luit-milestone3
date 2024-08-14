@@ -11,7 +11,7 @@ print(3 * 5)
 print(6 / 2)
 print(7 / 2)
 
-# integer division (returns the nearest whole number rounded down)
+# integer division (returns the nearest whole number rounded down unless you pair it with a float)
 print(6 // 2)
 print(7 // 2)
 
